@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Daily Standup",
+    "date": "2024-12-23",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#3b82f6",
+    "type": "meeting",
+    "description": "Daily team standup meeting"
+  },
+  {
+    "id": 2,
+    "title": "Project Review",
+    "date": "2024-12-23",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "color": "#8b5cf6",
+    "type": "meeting",
+    "description": "Quarterly project review with stakeholders"
+  },
+  {
+    "id": 3,
+    "title": "Client Presentation",
+    "date": "2024-12-24",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "color": "#06b6d4",
+    "type": "presentation",
+    "description": "Present new features to client"
+  },
+  {
+    "id": 4,
+    "title": "Code Review",
+    "date": "2024-12-24",
+    "startTime": "15:30",
+    "endTime": "16:15",
+    "color": "#10b981",
+    "type": "review",
+    "description": "Review pull requests and code quality"
+  },
+  {
+    "id": 5,
+    "title": "Team Lunch",
+    "date": "2024-12-25",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "color": "#f59e0b",
+    "type": "social",
+    "description": "Christmas team lunch celebration"
+  },
+  {
+    "id": 6,
+    "title": "Sprint Planning",
+    "date": "2024-12-26",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "color": "#ef4444",
+    "type": "planning",
+    "description": "Plan next sprint goals and tasks"
+  },
+  {
+    "id": 7,
+    "title": "Design Workshop",
+    "date": "2024-12-26",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#8b5cf6",
+    "type": "workshop",
+    "description": "UX/UI design workshop for new features"
+  },
+  {
+    "id": 8,
+    "title": "1:1 Meeting",
+    "date": "2024-12-27",
+    "startTime": "14:00",
+    "endTime": "14:30",
+    "color": "#06b6d4",
+    "type": "meeting",
+    "description": "One-on-one with manager"
+  },
+  {
+    "id": 9,
+    "title": "Tech Talk",
+    "date": "2024-12-30",
+    "startTime": "16:00",
+    "endTime": "16:45",
+    "color": "#10b981",
+    "type": "presentation",
+    "description": "Internal tech talk on React best practices"
+  },
+  {
+    "id": 10,
+    "title": "Year End Review",
+    "date": "2024-12-31",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "color": "#f59e0b",
+    "type": "review",
+    "description": "Annual performance review meeting"
+  },
+  {
+    "id": 11,
+    "title": "New Year Planning",
+    "date": "2025-01-02",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "color": "#3b82f6",
+    "type": "planning",
+    "description": "Strategic planning for the new year"
+  },
+  {
+    "id": 12,
+    "title": "All Hands Meeting",
+    "date": "2025-01-03",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#ef4444",
+    "type": "meeting",
+    "description": "Company-wide all hands meeting"
+  }
+]
